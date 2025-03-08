@@ -1,6 +1,6 @@
 # Installing and Managing Python on macOS
 
-Python installations can be a mess, especially on macOS, because of multiple overlapping sources (system Python, Homebrew, pyenv, conda, official installer, etc). This guide serves as a reminder to the original author (or anyone) for how to install Python in macOS the recommended way.
+Python installations can be a mess, especially on macOS, because of multiple overlapping sources (system Python, Homebrew, pyenv, conda, official installer, etc). This guide serves as a reminder to the repo creator (or anyone) for how to install Python in macOS the recommended way.
 
 ## 1. Checking Existing Python Installation
 
